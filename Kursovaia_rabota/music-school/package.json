@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "bun x vite",
-    "build": "vue-tsc -b && vite build",
+    "build": "vue-tsc -b && bunx vite build",
     "preview": "vite preview"
   },
   "dependencies": {
