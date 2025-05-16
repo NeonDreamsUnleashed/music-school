@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/composables/useteachers.ts","./src/router/index.ts","./src/shared/data.ts","./src/types/index.ts","./src/types/schedule.ts","./src/types/student.ts","./src/types/subject.ts","./src/types/teacher.ts"],"errors":true,"version":"5.8.3"}
